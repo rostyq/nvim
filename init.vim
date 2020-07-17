@@ -47,6 +47,7 @@ autocmd FileType toml setlocal ts=2 sts=2 sw=2 expandtab
 autocmd FileType json setlocal ts=2 sts=2 sw=2 expandtab
 autocmd FileType python setl ts=4 sts=4 sw=4 tw=80 et ai ff=unix
 autocmd FileType javascript setlocal ts=2 sts=2 sw=2 expandtab
+autocmd FileType svelte setlocal ts=2 sts=2 sw=2 expandtab
 autocmd FileType html setlocal ts=2 sts=2 sw=2 expandtab
 autocmd FileType css setlocal ts=2 sts=2 sw=2 expandtab
 autocmd FileType markdown setlocal wrap linebreak nolist
