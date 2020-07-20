@@ -28,3 +28,4 @@ augroup javascript_folding
     au FileType javascript setlocal foldmethod=syntax
 augroup END
 
+autocmd BufEnter * silent! lcd %:p:h
