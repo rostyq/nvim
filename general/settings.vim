@@ -1,3 +1,4 @@
+set title
 set ru nu
 set encoding=utf-8
 set fileformat=unix
