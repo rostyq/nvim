@@ -4,6 +4,10 @@ else
     let $VIMCONFIGDIR = expand($HOME) . '/.config/nvim'
 endif
 
+try
+    source $VIMCONFIGDIR/nvide.vim
+endtry
+
 source $VIMCONFIGDIR/general/plugins.vim
 source $VIMCONFIGDIR/general/settings.vim
 source $VIMCONFIGDIR/general/mappings.vim
