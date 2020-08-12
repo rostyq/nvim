@@ -1,3 +1,9 @@
+filetype plugin on
+filetype plugin indent on
+set nocompatible
+syntax enable
+syntax on
+
 set title
 set ru nu
 set encoding=utf-8
