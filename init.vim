@@ -16,3 +16,4 @@ source $VIMCONFIGDIR/general/commands.vim
 source $VIMCONFIGDIR/plug-config/syntastic.vim
 source $VIMCONFIGDIR/plug-config/fastfold.vim
 source $VIMCONFIGDIR/plug-config/autopairs.vim
+source $VIMCONFIGDIR/plug-config/coc.vim
