@@ -11,3 +11,6 @@ nnoremap <silent> <C-Left> :previous<cr>
 nnoremap <silent> <C-Up> :cnext<cr>
 nnoremap <silent> <C-Down> :cprevious<cr>
 
+" change terminal mode to normal mode 
+tnoremap <Esc> <C-\><C-n>
+tnoremap <c-l> <c-w>s<c-w>c
